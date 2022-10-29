@@ -1,0 +1,43 @@
+Работа с веб и доменами:
+Использовал обычно гугл дорки, удобный инструмент 
+2ip & whois - выяснял IP и принадлежность адреса к провайдерам
+The Harvester, Maltego, SynapsInt, МАМОНТ (легенда), Dmitry
+Shodan и Censys - достаточно боевые штуки, редко использовал 
+What's Web
+https://hunter.io/
+https://scamsearch.io/ 
+https://crt.sh/
+https://securitytrails.com/
+https://github.com/projectdiscovery/subfinder
+
+
+Соц. сети
+https://cs.github.com/
+https://github.com/techgaun/github-dorks
+https://github.com/Datalux/Osintgram
+https://github.com/megadose/nqntnqnqmb
+https://github.com/sinwindie/OSINT/blob/master/Pinterest/Pinterest%20OSINT%20Attack%20Surface.pdf
+
+IP
+https://www.infobyip.com/
+https://www.infosniper.net/
+https://github.com/sinwindie/OSINT/blob/master/IP/IP%20Address%20OSINT%20Attack%20Surface.pdf
+https://iplogger.org/
+
+Email
+https://tools.epieos.com/
+https://verify-email.org/
+https://github.com/mxrch/GHunt
+https://github.com/sharsil/mailcat
+
+Geo 
+https://www.huntintel.io/
+https://www.geohints.com/
+https://www.rutmap.com/
+https://www.google.com/earth/versions/
+
+Crypto 
+https://blockexplorer.com/
+https://www.walletexplorer.com/
+
+
